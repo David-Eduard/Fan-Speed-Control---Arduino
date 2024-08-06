@@ -1,4 +1,8 @@
-The Fan-Control project simulates a laptop fan. We used an Arduino microcontroller and some other components such as: the fan, the temperature sensor, the LCD screen, the LEDs and the buzzer. At low temperatures such as below 22°C the LCD displays "LOW SPEED", 
+<h1 align="center">
+   Fan-Speed-Control
+</h1>
+
+&nbsp; &nbsp; The Fan-Control project simulates a laptop fan. We used an Arduino microcontroller and some other components such as: the fan, the temperature sensor, the LCD screen, the LEDs and the buzzer. At low temperatures such as below 22°C the LCD displays "LOW SPEED", 
 
 ![image](https://github.com/user-attachments/assets/7d9c8fda-1a86-47ab-ab23-df51eda2f7aa)
 
